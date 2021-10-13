@@ -1,12 +1,3 @@
-h2.intro{
+.intro{
   color:aqua;
 }
-
-p.intro{
-  background-color: purple;
-}
-
-img.intro{
-  width: 800px;
-  height: 500px;
-  }
